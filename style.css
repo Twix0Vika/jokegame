@@ -1,12 +1,12 @@
 body{
-    background-color: black;
+    background-color: white;
     padding-top: 20vh;
    
 }
 .container{
     
     text-align: center;
-    background-color: goldenrod;
+    background-color: pink;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
